@@ -1,6 +1,5 @@
 ---
 urls: [{url: "https://apigw.thing2x.com/t2x/account/api-docs/swagger.json", name: "Account"}, {url: "https://apigw.thing2x.com/t2x/authentication/api-docs/swagger.json", name: "Authentication"}]
-urls.primaryName: "Account"
 dom_id: "#swagger-ui"
 validatorUrl: "https://online.swagger.io/validator"
 oauth2RedirectUrl: "http://localhost:3200/oauth2-redirect.html"
